@@ -1,1 +1,1 @@
-# autotests
+#Learning automatization with Python and Selenium WebDriver.
